@@ -1,6 +1,9 @@
-# icon
+# flutter_coffee_project
 
-A new Flutter project.
+Bu proje icon eklemek için yapılmış uygulamadır.
+ 
+![simulator_screenshot_53D82430-4CCD-462A-814E-2040506D2BA6](https://github.com/SuleAydin08/icon/assets/160034825/e55e8e5f-12a0-4b75-a795-f3af7d1222da)
+
 
 ## Getting Started
 
